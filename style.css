@@ -4,7 +4,7 @@
     {
     font-family: 'Raleway';
     src: url('static/Raleway-Black.ttf'),
-        url('static/Raleway-BlackItalic.ttf') url('Raleway-VariableFont_wght.ttf') url('Raleway-Italic-VariableFont_wght.ttf')
+        url('static/Raleway-BlackItalic.ttf'),url('Raleway-VariableFont_wght.ttf'),url('Raleway-Italic-VariableFont_wght.ttf')
 }
 
 * {
